@@ -2,7 +2,7 @@
 
 ## Sobre
 
-<img src="assets/print-site.png" alt="print" width="500">
+<img src="imagens/print-site.png" alt="print" width="500">
 
 Esse é um portal web sobre entreterimento digital feito com HTML e CSS. A página contém três seções com formas diferentes de entreterimento, sendo:
 - Filmes e Séries
